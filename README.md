@@ -56,9 +56,32 @@ checklists/
   build.md                     ← final gate before shipping a built surface
 ```
 
-## Provenance
+## Used By
 
-This skill was distilled and generalized from the production design system behind [Hadaa, an AI landscape and garden design tool](https://hadaa.app) — a paid SaaS where these conversion and design-psychology principles are applied to onboarding, pricing, and the studio every day. The brand specifics, fixed color tokens, and the paid-only business stance were stripped out so the principles apply to any product and any stack. The one business-model assumption that remains opt-out (free tiers/trials) is noted in [`SKILL.md`](SKILL.md).
+Teams applying these conversion and design-psychology principles in production:
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://hadaa.app">
+        <img src="https://www.google.com/s2/favicons?domain=hadaa.app&sz=128" width="48" height="48" alt="Hadaa logo"><br/>
+        <b>Hadaa</b>
+      </a>
+    </td>
+    <td>AI landscape &amp; garden design — turns a yard photo or sketch into photorealistic renders, contractor-ready blueprints, and zone-verified planting guides in under a minute.</td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://startupmaphub.com">
+        <img src="https://www.google.com/s2/favicons?domain=startupmaphub.com&sz=128" width="48" height="48" alt="StartupMapHub logo"><br/>
+        <b>StartupMapHub</b>
+      </a>
+    </td>
+    <td>Helps founders discover and apply to U.S. startup funding — grants, accelerators, and VC programs — with AI-assisted application drafting.</td>
+  </tr>
+</table>
+
+Using this skill in your product? Open a PR adding your logo and a one-line description.
 
 ## License
 
