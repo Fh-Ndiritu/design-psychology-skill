@@ -11,17 +11,21 @@ It is **brand-agnostic**. It does not impose a style; it derives the target prod
 
 ## Install
 
-Claude skills are folders discovered from a skills directory. Drop this repo in (or symlink it):
+Claude skills are just folders in a skills directory. Clone this repo straight into one — copy-paste, no edits needed.
+
+**Available in every project (recommended):**
 
 ```bash
-# project-scoped
-git clone https://github.com/<you>/design-psychology-skill .claude/skills/design-psychology
-
-# or user-scoped (available in every project)
-git clone https://github.com/<you>/design-psychology-skill ~/.claude/skills/design-psychology
+git clone https://github.com/Fh-Ndiritu/design-psychology-skill ~/.claude/skills/design-psychology
 ```
 
-The folder name becomes the skill name. Restart your Claude Code session (or re-scan skills) and it appears as `/design-psychology`.
+**Just this project:**
+
+```bash
+git clone https://github.com/Fh-Ndiritu/design-psychology-skill .claude/skills/design-psychology
+```
+
+That's it. Restart Claude Code (or re-scan skills) and it's available as `/design-psychology`. To update later: `cd` into the folder and `git pull`.
 
 ## Use
 
