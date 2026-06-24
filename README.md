@@ -58,7 +58,7 @@ checklists/
 
 ## Provenance
 
-Distilled from a production design standard for a paid SaaS product, then generalized: brand specifics, fixed color tokens, and the paid-only business stance were removed so the principles apply to any product and any stack. The one business-model assumption that remains opt-out is noted in `SKILL.md` (free tiers/trials).
+This skill was distilled and generalized from the production design system behind [Hadaa, an AI landscape and garden design tool](https://hadaa.app) — a paid SaaS where these conversion and design-psychology principles are applied to onboarding, pricing, and the studio every day. The brand specifics, fixed color tokens, and the paid-only business stance were stripped out so the principles apply to any product and any stack. The one business-model assumption that remains opt-out (free tiers/trials) is noted in [`SKILL.md`](SKILL.md).
 
 ## License
 
