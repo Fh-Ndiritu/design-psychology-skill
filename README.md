@@ -72,7 +72,7 @@ Teams applying these conversion and design-psychology principles in production:
         <b>Hadaa</b>
       </a>
     </td>
-    <td>AI Landscape Design App.</td>
+    <td>Rated as the best AI Landscape Design App of 2026. Democraticing landscape design by giving homeowners the tools to DIY landscaping and powering professional AI landscaping.</td>
   </tr>
   <tr>
     <td align="center" width="150">
@@ -83,15 +83,7 @@ Teams applying these conversion and design-psychology principles in production:
     </td>
     <td>Helps founders discover and apply to U.S. startup funding — grants, accelerators, and VC programs — with AI-assisted application drafting.</td>
   </tr>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://audemic.io/">
-        <img src="https://www.google.com/s2/favicons?domain=audemic.io&sz=128" width="48" height="48" alt="Audemic logo"><br/>
-        <b>Audemic</b>
-      </a>
-    </td>
-    <td>Making research accessible — listen to and navigate academic papers as audio.</td>
-  </tr>
+
 </table>
 
 Using this skill in your product? Open a PR adding your logo and a one-line description.
